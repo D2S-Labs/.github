@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="tracks" src="https://img.shields.io/badge/research%20tracks-6-0d1430?style=for-the-badge&labelColor=070b1a&color=a9bdff">
-  <img alt="commits" src="https://img.shields.io/badge/commits%20·%2030%20days-50-0d1430?style=for-the-badge&labelColor=070b1a&color=5eead4">
+  <img alt="commits" src="https://img.shields.io/badge/commits%20·%2030%20days-53-0d1430?style=for-the-badge&labelColor=070b1a&color=5eead4">
   <img alt="scales" src="https://img.shields.io/badge/scales-%C3%85%20%E2%86%92%20m-0d1430?style=for-the-badge&labelColor=070b1a&color=fbbf24">
 </p>
 
@@ -32,12 +32,12 @@
 
 | Track | Focus | Last update | Commits (30 d) |
 |:--|:--|:--|--:|
-| `T1` | Polymer crystal structure prediction | today | 10 |
-| `T2` | Molecular crystal structure prediction | today | 21 |
-| `T3` | Language models for alloy design | today | 9 |
-| `T4` | Thermodynamic (CALPHAD) assessment | today | 1 |
-| `T5` | Machine-learned interatomic potentials | today | 8 |
-| `T6` | Multiscale ICME for light alloys | today | 1 |
+| `T1` | Polymer crystal structure prediction | today | 11 |
+| `T2` | Molecular crystal structure prediction | yesterday | 21 |
+| `T3` | Language models for alloy design | today | 10 |
+| `T4` | Thermodynamic (CALPHAD) assessment | yesterday | 1 |
+| `T5` | Machine-learned interatomic potentials | yesterday | 8 |
+| `T6` | Multiscale ICME for light alloys | today | 2 |
 
 ## 🛠️ Toolbox
 
@@ -58,5 +58,5 @@ Our research code lives in private repositories inside this organization. If you
 our work, please reach out to the team.
 
 <p align="center">
-  <sub>Discovery2Scale · D2S-Labs · profile refreshed 2026-11-26</sub>
+  <sub>Discovery2Scale · D2S-Labs · profile refreshed 2026-11-27</sub>
 </p>
